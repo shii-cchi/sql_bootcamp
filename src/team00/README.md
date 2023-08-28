@@ -11,7 +11,7 @@
 | Language                        | ANSI SQL|
 | SQL Syntax Pattern                        | Recursive Query|
 
-![T00_02](misc/images/T00_02.png)
+![1](1.png)
 
 Please take a look at the Graph on the left. 
 There are 4 cities (a, b, c and d) and arcs between them with cost (or taxination). Actually the cost (a,b) = (b,a).
